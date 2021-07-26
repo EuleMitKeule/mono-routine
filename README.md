@@ -1,5 +1,6 @@
 ## Description
-**MonoRoutine** is a wrapper class that adds functionality to Coroutines from the Unity Engine Framework.
+**MonoRoutine** is a wrapper class that adds functionality to Coroutines from the Unity Engine Framework.<br>
+Any issues or contributions are more than welcome.
 
 This is partly inspired by krockot's [Unity-TaskManager](https://github.com/krockot/Unity-TaskManager).
 
