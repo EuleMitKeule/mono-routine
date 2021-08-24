@@ -7,6 +7,8 @@ This is partly inspired by krockot's [Unity-TaskManager](https://github.com/kroc
 ## Usage
 
 Just create a new MonoRoutine object and pass your IEnumerator and the MonoBehaviour the coroutine should belong to.<br>
+You can start, stop, pause and unpause routines. The routine object invokes events when the state changes.<br>
+You can also specify a generic return type which allows you to return a value by yielding it.
 
 More examples can be found in [TestComponent.cs](TestComponent.cs).
 
