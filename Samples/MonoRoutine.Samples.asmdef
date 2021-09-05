@@ -1,0 +1,16 @@
+{
+    "name": "MonoRoutine.Samples",
+    "rootNamespace": "MonoRoutine.Samples",
+    "references": [
+        "GUID:7f3bf635083e7244da2ac7ccca15c640"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
