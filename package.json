@@ -1,0 +1,13 @@
+{
+    "name": "com.eule.mono-routine",
+    "version": "0.1.0",
+    "description": "A wrapper class for extending coroutine's capabilities.",
+    "displayName": "mono-routine",
+    "unity": "2021.1",
+    "author": 
+    {
+        "name": "Lennard Beers",
+        "email": "l.beers@outlook.de",
+        "url": "https://lennardbeers.de/"
+    }
+}
